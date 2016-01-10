@@ -1,1 +1,1 @@
-# Realm.io Android Marshmallow example
+# Android Marshmallow example for Realm.io KR blog
