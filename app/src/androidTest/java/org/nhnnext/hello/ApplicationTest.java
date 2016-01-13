@@ -1,4 +1,4 @@
-package org.nhnnext.marshmallowexample;
+package org.nhnnext.hello;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
